@@ -1,23 +1,12 @@
-- 👋 Hi, I’m @Lakhaninawaz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Lakhaninawaz/Lakhaninawaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Hi there 👋
 
 I'm a web developer who loves to create beautiful and functional websites using HTML, CSS and JavaScript. I have experience in using frameworks such as nodejs, expressjs and Bootstrap, as well as tools such as Git and VS Code. I'm always eager to learn new technologies and improve my skills.
 
 ## 🚀 Some of my projects
 
-- [Portfolio website](https://github.com/username/portfolio-website) - A responsive and modern website that showcases my projects and skills.
-- [Todo app](https://github.com/username/todo-app) - A simple and elegant todo app that lets you manage your tasks with ease.
-- [Quiz app](https://github.com/username/quiz-app) - A fun and interactive quiz app that tests your knowledge on various topics.
+- [Quote Generator](https://github.com/username/portfolio-website) - Create beautiful quotes in minutes with Quozio. The fastest and easiest way to save and share your favorite words.
+- [Gallery Website](https://github.com/Lakhaninawaz/gallery-website.co) - A simple and responsive website. All photos are AI genereted.
+- [Amazon Clone](https://github.com/Lakhaninawaz/Amazon-Clone.io) - A fun and interactive Design. I try to make similler one. 
 
 ## 📫 How to reach me
 
