@@ -4,6 +4,7 @@ I'm a web developer who loves to create beautiful and functional websites using 
 
 ## 🚀 Some of my projects
 
+- [Rejouice Clone(animated)](https://github.com/Lakhaninawaz/rejouice-clone) - create clone animation from original one.
 - [Quote Generator](https://github.com/Lakhaninawaz/new-quotes-website-nodejs) - Create beautiful quotes in minutes with Quozio. The fastest and easiest way to save and share your favorite words.
 - [Gallery Website](https://github.com/Lakhaninawaz/gallery-website.co) - A simple and responsive website. All photos are AI genereted.
 - [Amazon Clone](https://github.com/Lakhaninawaz/Amazon-Clone.io) - A fun and interactive Design. I try to make similler one. 
