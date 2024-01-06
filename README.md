@@ -15,7 +15,7 @@ You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/lakhani-nawaz-4b2962233/)
 - [Twitter](https://twitter.com/Lakhani_Nawaz_1)
-- [Email](mailto:lakhaninawaz@gmail.com)
+- [Email](mailto:nawaz1.cv+git@gmail.com)
 
 ## 🌟 Fun facts about me
 
