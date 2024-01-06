@@ -13,7 +13,7 @@ I'm a web developer who loves to create beautiful and functional websites using 
 
 You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/lakhani-nawaz-4b2962233/)
+- [LinkedIn- ![Logo](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BqHZJdf%2FUT7KwaL1aEmxjKg%3D%3D)](https://www.linkedin.com/in/lakhani-nawaz-4b2962233/)
 - [Twitter](https://twitter.com/Nawaz_Coder)
 - [Email](mailto:nawaz1.cv+git@gmail.com)
 
