@@ -14,7 +14,7 @@ I'm a web developer who loves to create beautiful and functional websites using 
 You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/lakhani-nawaz-4b2962233/)
-- [Twitter](https://twitter.com/Lakhani_Nawaz_1)
+- [Twitter](https://twitter.com/Nawaz_Coder)
 - [Email](mailto:nawaz1.cv+git@gmail.com)
 
 ## 🌟 Fun facts about me
